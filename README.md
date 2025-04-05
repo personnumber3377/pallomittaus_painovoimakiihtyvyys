@@ -1,0 +1,2 @@
+# pallomittaus_painovoimakiihtyvyys
+Kaikki tiedostot
